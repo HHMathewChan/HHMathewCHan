@@ -2,6 +2,6 @@ Hi, I am Mathew Chan.
 Currently just finsih BSc (Honours) Computing and IT (Software) stage 2 at Open University.
 
 <!---
-HHMathewCHan/HHMathewCHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HHMathewChan/HHMathewChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
