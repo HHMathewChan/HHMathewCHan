@@ -1,5 +1,5 @@
 Hi, I am Mathew Chan.
-Currently studying BSc (Honours) Computing and IT (Software) stage 2 at Open University.
+Currently studying BSc (Honours) Computing and IT (Software) stage 3 at Open University.
 
 <!---
 HHMathewChan/HHMathewChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
